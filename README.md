@@ -3,7 +3,7 @@
 ALPhaChat is a intuitive desktop chat application that brings the power of advanced AI models to your fingertips. It allows you to chat with a local AI using Ollama or connect with popular AI services like OpenAI, Claude, and Gemini using your own API keys. Designed with simplicity and functionality in mind, ALPhaChat makes it easy to manage conversations and switch between AI providers seamlessly.
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+> ALPhaChat is currently under development, and new features are being actively added. Stay tuned for updates and improvements
 
 ---
 
