@@ -4,6 +4,7 @@ ALPhaChat is a intuitive desktop chat application that brings the power of advan
 
 > [!IMPORTANT]
 > ALPhaChat is currently under development, and new features are being actively added. Stay tuned for updates and improvements
+You can see the mockup [here](docs/mockup.md)
 
 ---
 
